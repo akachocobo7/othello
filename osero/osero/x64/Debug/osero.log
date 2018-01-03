@@ -1,0 +1,25 @@
+﻿  stdafx.cpp
+  ViewTree.cpp
+  PropertiesWnd.cpp
+  OutputWnd.cpp
+  oseroView.cpp
+c:\osero\osero\osero\oseroview.cpp(213): warning C4244: '=': 'double' から 'll' への変換です。データが失われる可能性があります。
+c:\osero\osero\osero\oseroview.cpp(458): warning C4244: '=': 'DWORD64' から 'int' への変換です。データが失われる可能性があります。
+c:\osero\osero\osero\oseroview.cpp(459): warning C4244: '=': 'DWORD64' から 'int' への変換です。データが失われる可能性があります。
+c:\osero\osero\osero\oseroview.cpp(507): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\osero\osero\osero\oseroview.cpp(521): warning C4244: '=': 'll' から 'int' への変換です。データが失われる可能性があります。
+c:\osero\osero\osero\oseroview.cpp(541): warning C4244: '=': 'll' から 'int' への変換です。データが失われる可能性があります。
+c:\osero\osero\osero\oseroview.cpp(556): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\osero\osero\osero\oseroview.cpp(586): warning C4244: '=': 'll' から 'int' への変換です。データが失われる可能性があります。
+c:\osero\osero\osero\oseroview.cpp(604): warning C4244: '=': 'll' から 'int' への変換です。データが失われる可能性があります。
+c:\osero\osero\osero\oseroview.cpp(625): warning C4244: '=': 'll' から 'int' への変換です。データが失われる可能性があります。
+c:\osero\osero\osero\oseroview.cpp(875): warning C4244: '+=': 'DWORD64' から 'int' への変換です。データが失われる可能性があります。
+c:\osero\osero\osero\oseroview.cpp(876): warning C4244: '-=': 'DWORD64' から 'int' への変換です。データが失われる可能性があります。
+  oseroDoc.cpp
+  osero.cpp
+  MainFrm.cpp
+  FileView.cpp
+  ClassView.cpp
+  コードを生成中...
+  osero.vcxproj -> C:\osero\osero\x64\Debug\osero.exe
+  osero.vcxproj -> C:\osero\osero\x64\Debug\osero.pdb (Partial PDB)
