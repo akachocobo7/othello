@@ -2,7 +2,8 @@
 
 オセロAIです。
 
-AIを作ってから、オセロのつづりが「othello」だと知りました。
+AIを作ってから、オセロのつづりが `othello` だと知りました。
+そのため、中身は `osero` とtypoしています。
 
 AIを作るにあたって、以下のサイトを参考にしました。
 - [Visual C++ を使ってオセロを作ってみよう](http://www.geocities.co.jp/SiliconValley-Bay/4543/Osero/index.html)
